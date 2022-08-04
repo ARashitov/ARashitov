@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Adil.
 - 👨‍💻 Building SaaS for waste logistics in @WasteLabs
 - 👀 I’m interested in building software, CI/CD and deployment
-- 🌱 I’m currently learning: ECS and EKS
+- 🌱 I’m currently learning: Kubernetes
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ARashitov&show_icons=true&hide=stars)
 
