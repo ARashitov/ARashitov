@@ -3,8 +3,7 @@
 
 
 - 👋 Hi, I’m Adil.
-- 👨‍💻 Building SaaS for waste logistics in @WasteLabs
-- 👀 I’m interested in building software and infrastructure for it on AWS and CI/CD 
+- 👨‍💻 Data Engineer at GR8 tech (ex Parimatch)
 - 🌱 I’m currently learning: [course of AWS data analytics](https://www.udemy.com/course/aws-data-analytics/)
 - 🛠 Here is one of mine [open source project available for code review](https://github.com/WasteLabs/gps_activity)
 
